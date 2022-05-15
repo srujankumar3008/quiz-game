@@ -1,0 +1,27 @@
+[
+    {
+        "question":"What is the surname of Srujan??",
+        "choice1":"Kumar",
+        "choice2":"Rathode",
+        "choice3":"Sanjay",
+        "choice4":"none of the above!",
+        "answer": 1
+    },
+    {
+        "question":"Which area is srujan residing in ?",
+        "choice1":"malleshwaram",
+        "choice2":"majestic",
+        "choice3":"pattegarapalya",
+        "choice4":"vijayanagar",
+        "answer":3
+    },
+    {
+        "question":"Which phone is srujan using?",
+        "choice1":"redmi",
+        "choice2":"realme",
+        "choice3":"oppo",
+        "choice4":"vivo ",
+        "answer":4
+    }
+
+]
